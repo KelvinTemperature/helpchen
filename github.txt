@@ -1,0 +1,16 @@
+Guidelines to Create a GitHub Account and clone Repo
+to Local Machine.
+
+Create GitHub Acount:
+Go to https://github.com and click on signup
+Follow the prompts to create your account
+After signup, you verify your email address
+
+Cloning Repo to Local Machine:
+if it is a new repo, you go to Repository Tab and on new
+Fill in the name of repo and description of repo
+Also, select if it should be private or public.
+When you have your repo set, head to your terminal
+Run the command "git clone <repo_url>
+You can use your Personal Access Token to secure access to the repo
+Also, you secure with SSH connection

@@ -1,0 +1,17 @@
+Guidelines to Install Git on a Local Machine:
+
+The installation depends on the machine it is installed on,
+whether windows, macOS, or a linux system.
+
+On Windows:
+Download and install git for windows installer online
+Run the installer anf follow instructions through
+During installation choose Use Git from Git Bash Only
+
+On macOS:
+On your terminal type the command "brew install git"
+if brew is not installed on the system, install Homebrew
+
+On Linux:
+Update the package list with "sudo apt update" first
+Then install Git using "sudo apt install git"

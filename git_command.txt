@@ -1,0 +1,59 @@
+1. git init
+Initializes a new Git repository.
+
+2. git clone <repository>
+Copies a repository from a given URL to your local machine.
+
+3. git add <file>
+Stages a file, preparing it for a commit.
+
+4. git commit -m "message"
+Records changes made to the repository with a descriptive message.
+
+5. git status
+Shows the status of changes as untracked, modified, or staged.
+
+6. git log
+Displays a chronological list of commits.
+
+7. git branch
+Lists all branches in the repository.
+
+8. git branch <branch_name>
+Creates a new branch with the specified name.
+
+9. git checkout <branch_name>
+Switches to the specified branch.
+
+10. git merge <branch>
+Merges changes from one branch into the current branch.
+
+11. git pull
+Fetches changes from a remote repository and merges them into the current branch.
+
+12. git push
+Uploads local changes to a remote repository.
+
+13. git remote
+Lists all remote repositories.
+
+14. git remote -v
+Displays detailed information about remote repositories.
+
+15. git diff
+Shows changes between commits, commit and working tree, etc.
+
+16. git reset
+Resets the current HEAD to a specified state (commit).
+
+17. git revert <commit>
+Reverts a commit by creating a new commit.
+
+18. git rm <file>
+Removes a file from both the working directory and the Git repository.
+
+19. git tag
+Lists tags in the repository.
+
+20. git stash
+Temporarily saves changes that are not ready to be committed.
